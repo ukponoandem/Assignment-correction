@@ -407,8 +407,8 @@ color: white;
  border-radius: 50%;
   width: 35px;
   box-shadow: 0px 5px 5px;
-  padding: 0px;
-  font-size: 20px;
+  padding:0%;
+  font-size: 25px;
   color: #754ef9;
 }
 .icon-text p{
@@ -550,7 +550,7 @@ max-width: 200px;
   
 }
 .text1{
-  margin-left: 25%;
+  margin-left: 20%;
   max-width: 200px;
  padding-left: 10px;
  padding-right: 10px;
